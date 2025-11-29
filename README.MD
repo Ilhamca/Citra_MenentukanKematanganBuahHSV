@@ -1,0 +1,1 @@
+Segmentasi warna dan tekstur pada buah untuk menentukan tingkat kematangan dengan menggunakan metode hsv
